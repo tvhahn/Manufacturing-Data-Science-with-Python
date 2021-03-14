@@ -5,6 +5,15 @@ Data science and machine learning applied to problems in manufacturing.
 
 #### [Metal Machining](https://github.com/tvhahn/Manufacturing-Data-Science-with-Python/tree/master/Metal%20Machining)
 
+<p align="center">
+  <img alt="flank wear" src="./Metal Machining/images/flank_wear.svg" width="300px">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="model architecture" src="./Metal Machining/images/model_architecture.svg" width="300px">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="vae" src="./Metal Machining/images/vae.svg" width="300px">
+</p>
+
+
 Anomaly detection as applied to metal machining using the UC Berkely milling data set.  The data set can be downloaded from the the [NASA Prognostics Center of Excellence website](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/).
 
 - [1.A_milling-data-exploration.ipynb](https://github.com/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.A_milling-data-exploration.ipynb) explores the milling data set. You'll get familiar with the data set and visualize the cutting signals. My [blog post](https://www.tvhahn.com/posts/milling/) explains the notebook in detail, and you can run the notebook [here]((https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.A_milling-data-exploration.ipynb)). [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.A_milling-data-exploration.ipynb)
