@@ -29,5 +29,7 @@ Anomaly detection as applied to metal machining using the UC Berkely milling dat
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="random search" src="./Metal Machining/images/vae_training_random_search.png" width="200px">
 </p>
-* [1.C_anomaly-results.ipynb](https://github.com/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb)
+
+- [1.C_anomaly-results.ipynb](https://github.com/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb)
+
 
