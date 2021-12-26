@@ -32,3 +32,10 @@ Anomaly detection as applied to metal machining using the UC Berkely milling dat
 
 - [1.C_anomaly-results.ipynb](https://github.com/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb) Notebook inspects the results from the trained VAE. Here's the [blog post](https://www.tvhahn.com/posts/anomaly-results/) explaining the notebook, and you can run it [here](https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb).
 
+<p align="center">
+  <img alt="violin plot" src="./Metal Machining/images/violin_plot.png" height="150px">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="PR-AUC curves" src="./Metal Machining/images/prauc_results.svg" width="200px">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="case 11 trend" src="./Metal Machining/images/case_11_trend.svg" width="200px">
+</p>
