@@ -30,6 +30,5 @@ Anomaly detection as applied to metal machining using the UC Berkely milling dat
   <img alt="random search" src="./Metal Machining/images/vae_training_random_search.png" width="200px">
 </p>
 
-- [1.C_anomaly-results.ipynb](https://github.com/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb)
-
+- [1.C_anomaly-results.ipynb](https://github.com/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb) Notebook inspects the results from the trained VAE. Here's the [blog post](https://www.tvhahn.com/posts/anomaly-results/) explaining the notebook, and you can run it [here](https://colab.research.google.com/github/tvhahn/Manufacturing-Data-Science-with-Python/blob/master/Metal%20Machining/1.C_anomaly-results.ipynb).
 
